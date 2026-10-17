@@ -7,6 +7,7 @@ All My programs:
 Diwali_budget_manager.py : A smart tracker to manage your expenses.
 Bill_calculator.py : Script that calculates food or cafe bills.
 attendance_tracker.py : Smart tool that make sure your attendance stays safely above strict 75%.
+
 backlog_checker.py : A simple logic engine to calculate marks required to clear credits and stay safe from backlogs.
 online_cloud_kitchen.py : A mini food order simulator that handles menu selection, orders and dynamic bill checkout.
 
